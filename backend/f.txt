@@ -1,0 +1,8 @@
+postgres://homestore_8fj6_user:XDJINIeJoiQicXS2lhTBXF6RkR4dTK5g@dpg-chuadf5269vccp3cnti0-a.singapore-postgres.render.com/homestore_8fj6
+
+
+homestore_8fj6
+
+XDJINIeJoiQicXS2lhTBXF6RkR4dTK5g
+
+homestore_8fj6_user
